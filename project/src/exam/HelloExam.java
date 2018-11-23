@@ -7,5 +7,15 @@ public class HelloExam {
 		System.out.println("bye bye~~~~");
 		System.out.println("bye bye~~~~");
 		System.out.println("bye bye~~~~");
+		System.out.println("hello it's me~~");
+
+		System.out.println("Á¾¼¼");
+
+		System.out.println("hello it's me~~ ~~~");
+		System.out.println("hello it's me~~ ~~~");
+		System.out.println("hello it's me~~ ~~~");
+		System.out.println("hello it's me~~ ~~~");
+		System.out.println("hello it's me~~ ~~~");
+
 	}
 }
